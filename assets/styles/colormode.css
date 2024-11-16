@@ -1,14 +1,14 @@
 /* Body element */
 body {
     background-color: #fff;
-    color: rgba(0,0,0,0.8);
+    color: rgba(253, 220, 229, 0.8);
     }
     .light-mode body {
-    background-color: #e2e3e5;
+    background-color: #fdebf5;
     color: #161717;
     }
     .dark-mode body {
-    background-color: #161715;
+    background-color: #2a562a;
     color: #ebf4f1;
     }
     .gray-mode body {
